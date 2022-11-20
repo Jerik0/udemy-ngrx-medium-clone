@@ -4,5 +4,6 @@
   "printWidth": 80,
   "bracketSpacing": true,
   "semi": true,
-  "singleAttributePerLine": true
+  "singleAttributePerLine": true,
+  "trailingComma" : "none"
 }
